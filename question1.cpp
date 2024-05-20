@@ -1,4 +1,4 @@
-/*Write a program to display the following output using a single cout statement.
+ /*Write a program to display the following output using a single cout statement.
 Maths=70, Physics=64, Chemistry=86*/
 #include<iostream> 
 using namespace std;
